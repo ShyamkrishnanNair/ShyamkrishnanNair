@@ -1,4 +1,3 @@
-<code style="color : gold">Hello There</code>
 <h1 align="center">Hello there!</h1>
 <h2 align="center">I'm Shyamkrishnan Nair</h2>
 <h3 align="center">Web Developer?!</h3>
