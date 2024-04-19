@@ -13,7 +13,7 @@ Hey everyone! I'm Shyamkrishnan Nair, a web developer with a passion for craftin
 - 🎸 **Bass Enthusiast:** When I play the bass, you can definitely hear it! I don't like violence, but I slap hard, IYKWIM. 😉⚡
 - ⚽ **Football Fanatic:** 4-3-3. It's about a dedication and passion, whatever the score. GGMU! 🔥💪
 - 📚 **Comic Connoisseur:** May The Force Be With You. Kapow & Zap! 💥
-- 🎭 **Theatre Buff:** Watching the play from the Sound Booth. Natak Mandali". 💘🎶
+- 🎭 **Theatre Buff:** Watching the play from the Sound Booth. "Natak Mandali". 💘🎶
 ---
 ### 🛠 &nbsp;The Technical Me
 
